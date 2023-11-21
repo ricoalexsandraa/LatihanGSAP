@@ -1,0 +1,1 @@
+// gsap.from('.myElement', { opacity: 0, duration: 1 });
